@@ -7,7 +7,7 @@
 - :grin: Você pode me encontrar em:
   - [![Linkedin](https://img.shields.io/badge/linkedin-jcmdsbr-blue)](https://www.linkedin.com/in/jcmdsbr/)
   - [![Instagram](https://img.shields.io/badge/instagram-jcmdsbr-red)](https://www.instagram.com/jcmdsbr/)
-  - ![Twitter Follow](https://img.shields.io/twitter/follow/jcmdsbr?style=social) 
+  - [![Twitter Follow](https://img.shields.io/twitter/follow/jcmdsbr?style=social)](https://www.twitter.com/jcmdsbr/)
 
  [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/jcmdsbr/)
  
