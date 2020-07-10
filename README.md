@@ -1,4 +1,4 @@
-### HEY ! 👋 Meu nome é Jean Carlos  
+### HEY ! 👋 
 
 - :blush: Atualmente atuo como Arquiteto de Software e Líder Técnico na empresa [5by5 Soluções em Sistemas](https://www.linkedin.com/company/5by5solucoesti/)
 - :stuck_out_tongue_closed_eyes: Estou sempre estudando sobre Cloud :cloud: com foco no Azure e AWS
