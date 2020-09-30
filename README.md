@@ -8,8 +8,8 @@
 - :dizzy_face: Fatos inúteis sobre mim:  Assisti 90 episódios seguidos de Naruto e tomo muito café !!!!:eyes: 
 
 <p align="center">
-	<a href="https://twitter.com/pablohdev">
-		<img  src="https://img.shields.io/twitter/follow/jcmdsbr?color=%231DA1F2&amp;label=Follow%20me&amp;logo=Twitter&amp;style=for-the-badge" alt="Twitter Follow"></a> 
+    <a href="https://twitter.com/jcmdsbr">
+    <img  src="https://img.shields.io/twitter/follow/jcmdsbr?color=%231DA1F2&amp;label=Follow%20me&amp;logo=Twitter&amp;style=for-the-badge" alt="Twitter Follow"></a> 
     <a href="https://linkedin.com/in/jcmdsbr"><img src="https://img.shields.io/badge/Follow%20me%20-blue?style=for-the-badge&logo=Linkedin" alt="Linkedin Follow"></a> 
     <a href="https://instagram.com/jcmdsbr"><img src="https://img.shields.io/badge/Follow%20me%20-black?style=for-the-badge&logo=Instagram&logoColor=%231DA1F2" alt="Instagram Follow"></a> 
 </p>
