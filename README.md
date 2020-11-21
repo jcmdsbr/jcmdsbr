@@ -15,6 +15,9 @@
    <a href="https://dev.to/jcmdsbr">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jean Carlos's DEV Profile" height="30" width="30">
 </a>
+  <a href="https://app.rocketseat.com.br/me/jcmdsbr">
+ <img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/> 
+</a>
 </p>
 
 
