@@ -26,3 +26,23 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=jcmdsbr&amp;show_icons=true&theme=white" alt="github stats"></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmdsbr&layout=compact)
+
+
+### Meu Setup de desenvolvimento ;)
+
+#### Maquina principal
+
+- Notebook: Dell Inspiron 15-3567
+- Memoria RAM: 2x8 Dual Channel Hyper X DDR4
+- Processador: Intel(R) Core(TM) i7-7500U
+- SSD: 240GB Kingstom
+- SO: Ubuntu 20.04 LTS
+
+#### Maquina secundária
+
+- Notebook: MacBook Air 2017
+- Memoria RAM: 8 GB
+- Processador: Intel(R) Core(TM) i5
+- SSD: 128GB
+- SO: Big Sur
+
