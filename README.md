@@ -2,10 +2,11 @@
 
 ## Meu nome é Jean Carlos, tenho 25 anos ;)
 
-- :blush: Atualmente atuo como Arquiteto de Software e Líder Técnico na empresa [5by5 Soluções em Sistemas](https://www.linkedin.com/company/5by5solucoesti/)
-- :stuck_out_tongue_closed_eyes: Estou sempre estudando sobre Cloud :cloud: com foco no Azure e AWS
-- :speech_balloon: Pergunte-me sobre REST, .Net em geral, CI/CD, Docker, K8s, Jenkins, Sistemas Distribuídos e Cultura Nerd :heart: 
-- :dizzy_face: Fatos inúteis sobre mim:  Assisti 90 episódios em um dia de Naruto :eyes: 
+- :blush: Atualmente atuo como Arquiteto de Software na empresa [5by5 Soluções em Sistemas](https://www.linkedin.com/company/5by5solucoesti/)
+- :stuck_out_tongue_closed_eyes: Estou sempre estudando sobre Cloud :cloud: e novas tecnologias.
+- :speech_balloon: Pergunte-me sobre REST/Restful, SOLID, DDD, Clean Code, DevOps, Sistemas Distribuídos, Micro-serviços e Cultura Nerd
+- :yum: Desenvolvo a mais de 6 anos em C#/.Net como linguagem principal e preferida
+- :shushing_face: Tenho um xodó em [NestJs](https://nestjs.com/)
 
 <p align="center">
     <a href="https://twitter.com/jcmdsbr">
