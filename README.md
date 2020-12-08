@@ -24,7 +24,7 @@
 
 ###  Minhas Atividades 🚀
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jcmdsbr&amp;show_icons=true&theme=white" alt="github stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jcmdsbr&amp;show_icons=true&theme=black" alt="github stats"></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmdsbr&layout=compact)
 
