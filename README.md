@@ -39,12 +39,11 @@ namespace Profile
 ```
 
 ```bash
-
 Oi eu sou o Jean =) Atualmente integro o squad de arquitetos da 5by5 Soluções em Sistemas.
 Tenho 25 anos  e Matonense o/
 Tenho mais de 6 anos em desenvolvimento de software, majoritariamente com CSharp e seus derivados.
 Me pergunte sobre arquitetura de software, padrões de projeto, devops etc.. Estou aberto para trocar ideia.
-
+Segue abaixo minhas redes sociais.
 ```
 
 <p align="center">
@@ -60,11 +59,14 @@ Me pergunte sobre arquitetura de software, padrões de projeto, devops etc.. Est
   </a>
 </p>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmdsbr&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-[![About Me](https://github-readme-stats.vercel.app/api?username=jcmdsbr&show_icons=true&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmdsbr&layout=compact&theme=gotham">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=jcmdsbr&show_icons=true&layout=compact&theme=gotham" />
+  </a>
+</p>
 
 - [Meu Ambiente de desenvolvimento](https://github.com/jcmdsbr/devtools-setup) 💻
   - OS: Linux Mint 20.01 Ulyssa
