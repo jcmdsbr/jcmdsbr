@@ -20,3 +20,27 @@
  <img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/> 
 </a>
 </p>
+
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=jcmdsbr&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmdsbr&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+</p>
+
+ <br />
+  <summary><b>Meu Ambiente de desenvolvimento</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Linux Mint 20.01 Ulyssa </li>
+	    <li><b>Laptop: </b> AVELL A60 MUV </li>
+        <li><b>Processor: </b> Intel© Core™ i7-9750H CPU @ 2.60GHz × 6
+        <li><b>Memory: </b> 16 GB RAM DDR5 </li>
+        <li><b>Hard Drives: </b> SSD M.2 NVME 500GB </li>
+	    <li><b>Terminal: </b> Only bash <3 in terminator</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <br />
+	</ul>	
+
+Meu setup de programas <a href="https://github.com/jcmdsbr/devtools-setup">Abrir!!</a>
