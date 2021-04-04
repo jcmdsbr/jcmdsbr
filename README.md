@@ -7,30 +7,30 @@ namespace Profile
     {
         private static void Main(string[] args)
         {
-           var aboutMe = new AboutMe {
-             Name = "Jean Carlos Moreira da Silva",
-             CurrentCompany = "5by5 Soluções em Sistemas",
-             CreatedAt = new DateTime(1995,9,1),
-             FirstJobStartedAt = new DateTime(2014,10,1),
-             FavoriteStack = ".Net Core/C#",
-             Address = new Address("Matão", "São Paulo", "Brazil"),
-             Languages = new List<string>("C#", "Typescript", "Javascript", "Python", "Powershell", "Shell"),
-             Frameworks = new List<string>(".Net Core", "Node", "Nest", "Angular", "Rebus", "Ionic"),
-             Libraries = new List<string>("React", "Vue", "Express", "AutoMapper", "MediatoR"),
-             Databases = new List<string>("SQL Server", "PostgreSQL", "MongoDB", "DynamoDB", "Redis", "Firestore"),
-             ORMs = new List<string>("EF", "NHibernate", "Dapper", "TypeORM", "Mongoose"),
-             BestPractices = new List<string>("Clean Code", "SOLID", "TDD", "Clean Architecture", "DDD"),
-             MessageBrokers = new List<string>("RabbitMQ", "SNS", "SQS", "Google Pub/Sub", "Azure Service Bus"),
-             DevOpsTools = new List<string>("Jenkins", "Azure Pipelines", "Github Actions", "Spinnaker", "Terraforms"),
-             CloudProviders = new List<string>("AWS", "GCP", "Azure"),
-             ArchitectureDessignPatterns = new List<string>("Hexagonal", "MicroServices", "Event Sourcing", "CQRS"),
-             ResilienceDesignPatterns = new List<string>("Retry", "Circuit Breaker", "Fallback", "Timeout"),
-             HasKnowledgeInSSIS = true,
-             HasKnowledgeInMultiLanguageApplication = true,
-             HasKnowledgeInDistributedSystems = true,
-             HasKnowledgeInServerlessApplication = true,
-             HasKnowledgeInRestfulApplication = true
-           }
+           var aboutMe = new AboutMeBuilder()
+              .WhatIsYourName("Jean Carlos Moreira da Silva")
+              .WhatIsYourBirthDate(new DateTime(1995,9,1))
+              .WhenDidYouStartWorking(new DateTime(2014,10,1))
+              .WhereDoYouWork("5by5 Soluções em Sistemas")
+              .WhatIsYourFavoriteStack(".Net Core/C#")
+              .WhereYouLive(new Address("Matão", "São Paulo", "Brazil"))
+              .WhatAreYourSkillsInLanguages("C#", "Typescript", "Javascript", "Python", "Powershell", "Shell")
+              .WhatAreYourSkillsInFrameworks(".Net Core", "Node", "Nest", "Angular", "Rebus", "Ionic")
+              .WhatAreYourSkillsInLibraries("React", "Vue", "Express", "AutoMapper", "MediatoR")
+              .WhatAreYourSkillsInDatabases("SQL Server", "PostgreSQL", "MongoDB", "DynamoDB", "Redis", "Firestore")
+              .WhatAreYourSkillsInORMs("EF", "NHibernate", "Dapper", "TypeORM", "Mongoose")
+              .WhatAreYourSkillsInMessageBrokers("RabbitMQ", "SNS", "SQS", "Google Pub/Sub", "Azure Service Bus")
+              .WhatAreYourSkillsInDevOpsTools("Jenkins", "Azure Pipelines", "Github Actions", "Spinnaker", "Terraforms")
+              .WhatAreYourSkillsInBestPractices("Clean Code", "SOLID", "TDD", "Clean Architecture", "DDD")
+              .WhatAreYourSkillsInCloudProviders("AWS", "GCP", "Azure")
+              .WhatAreYourSkillsInArchitectureDessignPatterns("Hexagonal", "MicroServices", "Event Sourcing", "CQRS")
+              .WhatAreYourSkillsInResilienceDesignPatterns("Retry", "Circuit Breaker", "Fallback", "Timeout")
+              .HasKnowledgeInSSIS()
+              .HasKnowledgeInMultiLanguageApplication()
+              .HasKnowledgeInDistributedSystems()
+              .HasKnowledgeInServerlessApplication()
+              .HasKnowledgeInRestfulApplication()
+              .Build();
 
            Console.WriteLine(aboutMe);
         }
