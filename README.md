@@ -23,7 +23,7 @@ namespace Profile
               .WhatAreYourSkillsInDevOpsTools("Jenkins", "Azure Pipelines", "Github Actions", "Spinnaker", "Terraforms")
               .WhatAreYourSkillsInBestPractices("Clean Code", "SOLID", "TDD", "Clean Architecture", "DDD")
               .WhatAreYourSkillsInCloudProviders("AWS", "GCP", "Azure")
-              .WhatAreYourSkillsInArchitectureDessignPatterns("Hexagonal", "MicroServices", "Event Sourcing", "CQRS")
+              .WhatAreYourSkillsInArchitectureDesignPatterns("Hexagonal", "MicroServices", "Event Sourcing", "CQRS")
               .WhatAreYourSkillsInResilienceDesignPatterns("Retry", "Circuit Breaker", "Fallback", "Timeout")
               .HasKnowledgeInSSIS()
               .HasKnowledgeInMultiLanguageApplication()
