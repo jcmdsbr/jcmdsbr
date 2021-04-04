@@ -1,13 +1,5 @@
 # Hey ! 👋
 
-## Meu nome é Jean Carlos, tenho 25 anos ;)
-
-- :blush: Atualmente atuo como Arquiteto de Software na empresa [5by5 Soluções em Sistemas](https://www.linkedin.com/company/5by5solucoesti/)
-- :stuck_out_tongue_closed_eyes: Estou sempre estudando sobre Cloud :cloud: e novas tecnologias.
-- :speech_balloon: Pergunte-me sobre REST/Restful, SOLID, DDD, Clean Code, DevOps, Sistemas Distribuídos, Micro-serviços e Cultura Nerd
-- :yum: Desenvolvo a mais de 6 anos em C#/.Net como linguagem principal e preferida
-- :shushing_face: Tenho um xodó em [NestJs](https://nestjs.com/)
-
 <p align="center">
   <a href="https://twitter.com/jcmdsbr">
   <img  src="https://img.shields.io/twitter/follow/jcmdsbr?color=%231DA1F2&amp;label=Follow%20me&amp;logo=Twitter&amp;style=for-the-badge" alt="Twitter Follow"></a> 
@@ -21,10 +13,6 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmdsbr&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-[![About Me](https://github-readme-stats.vercel.app/api?username=jcmdsbr&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 ```cs
 namespace Profile
 {
@@ -34,7 +22,10 @@ namespace Profile
         {
            var aboutMe = new AboutMe {
              Name = "Jean Carlos Moreira da Silva",
+             CurrentCompany = "5by5 Soluções em Sistemas",
              CreatedAt = new DateTime(1995,9,1),
+             FirstJobStartedAt = new DateTime(2014,10,1),
+             FavoriteStack = ".Net Core/C#",
              Address = new Address("Matão", "São Paulo", "Brazil"),
              Languages = new List<string>("C#", "Typescript", "Javascript", "Python", "Powershell", "Shell"),
              Frameworks = new List<string>(".Net Core", "Node", "Nest", "Angular", "Rebus", "Ionic"),
@@ -57,6 +48,10 @@ namespace Profile
     }
 }
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcmdsbr&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+[![About Me](https://github-readme-stats.vercel.app/api?username=jcmdsbr&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 - [Meu Ambiente de desenvolvimento](https://github.com/jcmdsbr/devtools-setup) 💻
   - OS: Linux Mint 20.01 Ulyssa
