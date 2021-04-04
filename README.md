@@ -31,7 +31,7 @@
 </p>
 
  <br />
-  <summary><b>Meu Ambiente de desenvolvimento</b></summary>
+  <summary><b>Meu Ambiente de desenvolvimento 💻 </b></summary>
   	<ul>
   	    <li><b>OS:</b> Linux Mint 20.01 Ulyssa </li>
 	    <li><b>Laptop: </b> AVELL A60 MUV </li>
