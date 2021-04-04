@@ -38,8 +38,6 @@
         <li><b>Processor: </b> Intel© Core™ i7-9750H CPU @ 2.60GHz × 6
         <li><b>Memory: </b> 16 GB RAM DDR5 </li>
         <li><b>Hard Drives: </b> SSD M.2 NVME 500GB </li>
-	    <li><b>Terminal: </b> Only bash <3 in terminator</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <br />
 	</ul>	
 
