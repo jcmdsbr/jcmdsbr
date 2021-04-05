@@ -32,7 +32,7 @@ namespace Profile
               .WhatAreYourSkillsInBestPractices("Clean Code", "SOLID", "TDD", "Clean Architecture", "DDD")
               .WhatAreYourSkillsInCloudProviders("AWS", "GCP", "Azure")
               .WhatAreYourSkillsInArchitectureDesignPatterns("Hexagonal", "MicroServices", "Event Sourcing", "CQRS")
-              .WhatAreYourSkillsInResilienceDesignPatterns("Retry", "Circuit Breaker", "Fallback", "Timeout")
+              .WhatAreYourSkillsInResilienceDesignPatterns("Retry", "Circuit Breaker", "Fallback", "Timeout", "SAGA")
               .HasKnowledgeInSSIS()
               .HasKnowledgeInMultiLanguageApplication()
               .HasKnowledgeInDistributedSystems()
