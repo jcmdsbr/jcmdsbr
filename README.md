@@ -57,11 +57,7 @@ dotnet run Profile.csproj
 - :speech_balloon: Pergunte-me sobre REST/Restful, SOLID, DDD, Clean Code, DevOps, Sistemas Distribuídos, Micro-serviços e Cultura Nerd
 - :yum: Desenvolvo a mais de 6 anos em C# como linguagem principal e preferida !!
 
----
-
 <h2>
-
-[Meu Ambiente de desenvolvimento](https://github.com/jcmdsbr/devtools-setup) 👋
 
 <p align="center">
   <a href="https://twitter.com/jcmdsbr">
