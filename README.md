@@ -36,10 +36,10 @@ namespace Profile
 }
 ```
 
-:blush: Meu nome é Jean Carlos, atualmente atuo como Arquiteto de Software na empresa 5by5 Soluções em Sistemas
-:stuck_out_tongue_closed_eyes: Estou sempre estudando sobre Cloud cloud e novas tecnologias.
-:speech_balloon: Pergunte-me sobre REST/Restful, SOLID, DDD, Clean Code, DevOps, Sistemas Distribuídos, Micro-serviços e Cultura Nerd
-:yum: Desenvolvo a mais de 6 anos em C# como linguagem principal e preferida !!
+- :blush: Meu nome é Jean Carlos, atualmente atuo como Arquiteto de Software na empresa 5by5 Soluções em Sistemas
+- :stuck_out_tongue_closed_eyes: Estou sempre estudando sobre Cloud cloud e novas tecnologias.
+- :speech_balloon: Pergunte-me sobre REST/Restful, SOLID, DDD, Clean Code, DevOps, Sistemas Distribuídos, Micro-serviços e Cultura Nerd
+- :yum: Desenvolvo a mais de 6 anos em C# como linguagem principal e preferida !!
 
 - [Meu Ambiente de desenvolvimento](https://github.com/jcmdsbr/devtools-setup) 💻
 
