@@ -69,6 +69,7 @@ dotnet run Profile.csproj
   <a href="https://app.rocketseat.com.br/me/jcmdsbr">
   <img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/> 
   </a>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0c7fbaf6-ad43-4041-84e9-30658cb1f61b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
 
 <p align=center>
