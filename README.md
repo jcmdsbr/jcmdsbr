@@ -57,6 +57,15 @@ dotnet run Profile.csproj
 - :yum: Desenvolvo a mais de 6 anos em C# como linguagem principal e preferida !!
 
 <h2>
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmdsbr&layout=compact&theme=gotham">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=jcmdsbr&show_icons=true&layout=compact&theme=gotham" />
+  </a>
+</p>
+</h2>
 
 <p align="center">
   <a href="https://twitter.com/jcmdsbr">
@@ -69,16 +78,4 @@ dotnet run Profile.csproj
   <a href="https://app.rocketseat.com.br/me/jcmdsbr">
   <img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/> 
   </a>
-  
 </p>
-
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcmdsbr&layout=compact&theme=gotham">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=jcmdsbr&show_icons=true&layout=compact&theme=gotham" />
-  </a>
-</p>
-
-</h2>
