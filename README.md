@@ -9,8 +9,8 @@ code .
 ---
 
 ```cs
-namespace Profile
-{
+namespace Profile;
+
     internal class Program
     {
         private static void Main(string[] args)
@@ -40,7 +40,6 @@ namespace Profile
               .Build());
         }
     }
-}
 ```
 
 ---
