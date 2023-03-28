@@ -15,29 +15,48 @@ namespace Profile;
     {
         private static void Main(string[] args)
         {
-           Console.Writeline(new AboutMeBuilder()
-              .WhatIsYourName("Jean Carlos Moreira da Silva")
-              .WhatIsYourBirthDate(new DateTime(1995,9,1))
-              .WhenDidYouStartWorking(new DateTime(2014,10,1))
-              .WhereDoYouWork("5by5 Soluções em Sistemas")
-              .WhatIsYourFavoriteStack(".Net Core/C#")
-              .WhereYouLive(new Address("Matão", "São Paulo", "Brazil"))
-              .WhatAreYourSkillsInLanguages("C#", "Typescript", "Javascript", "Python", "Powershell", "Shell")
-              .WhatAreYourSkillsInFrameworks(".Net Core", "Node", "Nest", "Angular", "Rebus", "Ionic")
-              .WhatAreYourSkillsInLibraries("React", "Vue", "Express", "AutoMapper", "MediatoR")
-              .WhatAreYourSkillsInDatabases("SQL Server", "PostgreSQL", "MongoDB", "DynamoDB", "Redis", "Firestore")
-              .WhatAreYourSkillsInORMs("EF", "NHibernate", "Dapper", "TypeORM", "Mongoose")
-              .WhatAreYourSkillsInMessageBrokers("RabbitMQ", "SNS", "SQS", "Google Pub/Sub", "Azure Service Bus")
-              .WhatAreYourSkillsInDevOpsTools("Jenkins", "Azure Pipelines", "Github Actions", "Spinnaker", "Terraforms")
-              .WhatAreYourSkillsInBestPractices("Clean Code", "SOLID", "TDD", "Clean Architecture", "DDD")
-              .WhatAreYourSkillsInCloudProviders("AWS", "GCP", "Azure")
-              .WhatAreYourSkillsInArchitectureDesignPatterns("Hexagonal", "MicroServices", "Event Sourcing", "CQRS")
-              .WhatAreYourSkillsInResilienceDesignPatterns("Retry", "Circuit Breaker", "Fallback", "Timeout", "SAGA")
-              .HasKnowledgeInSSIS()
-              .HasKnowledgeInMultiLanguageApplication()
-              .HasKnowledgeInDistributedSystems()
-              .HasKnowledgeInServerlessApplication()
-              .Build());
+           var aboutMeBuilder = new AboutMeBuilder()
+                .WithBasicInfo(
+                    name: "Jean Carlos Moreira da Silva",
+                    birthDate: new DateTime(1995, 9, 1),
+                    workStartDate: new DateTime(2014, 10, 1),
+                    currentEmployer: "5by5 Soluções em Sistemas",
+                    favoriteStack: ".Net Core/C#",
+                    address: new("Matão", "São Paulo", "Brazil")
+                )
+                .WithLanguageSkills(
+                    new[] { "C#", "Typescript", "Javascript", "Python", "Powershell", "Shell" },
+                    new[] { ".Net Core", "Node", "Nest", "Angular", "Rebus", "Ionic" },
+                    new[] { "React", "Vue", "Express", "AutoMapper", "MediatoR" }
+                )
+                .WithDatabaseSkills(
+                    new[] { "SQL Server", "PostgreSQL", "MongoDB", "DynamoDB", "Redis", "Firestore" },
+                    new[] { "EF", "NHibernate", "Dapper", "TypeORM", "Mongoose" }
+                )
+                .WithMessagingSkills(
+                    new[] { "RabbitMQ", "SNS", "SQS", "Google Pub/Sub", "Azure Service Bus", "Kafka", "SignalR", "Event Hub" }
+                )
+                .WithDevOpsSkills(
+                    new[] { "Jenkins", "Azure Pipelines", "Cloud Build", "Spinnaker" }
+                )
+                .WithBestPracticeSkills(
+                    new[] { "Clean Code", "SOLID", "TDD", "Clean Architecture", "DDD" }
+                )
+                .WithCloudProviderSkills(
+                    new[] { "AWS", "GCP", "Azure" }
+                )
+                .WithArchitectureDesignSkills(
+                    new[] { "Hexagonal", "MicroServices", "Event Sourcing", "CQRS" , "EDAs", "CDC"}
+                )
+                .WithResilienceDesignSkills(
+                    new[] { "Retry", "Circuit Breaker", "Fallback", "Timeout", "SAGA" }
+                )
+                .WithKnowledgeInSSIS()
+                .WithKnowledgeInMultiLanguageApplication()
+                .WithKnowledgeInDistributedSystems()
+                .WithKnowledgeInServerlessApplication();
+
+            Console.Writeline(aboutMeBuilder.Build());
         }
     }
 ```
