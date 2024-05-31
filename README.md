@@ -22,7 +22,7 @@ namespace Profile;
                     workStartDate: new DateTime(2014, 10, 1),
                     currentEmployer: "5by5 Soluções em Sistemas",
                     favoriteStack: ".Net Core/C#",
-                    address: new("Matão", "São Paulo", "Brazil")
+                    address: new("Araraquara", "São Paulo", "Brazil")
                 )
                 .WithLanguageSkills(
                     new[] { "C#", "Typescript", "Javascript", "Python", "Powershell", "Shell" },
