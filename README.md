@@ -72,7 +72,7 @@ dotnet run Profile.csproj
 - :blush: Meu nome é Jean Carlos, atualmente atuo como Arquiteto de Software na empresa 5by5 Soluções em Sistemas
 - :stuck_out_tongue_closed_eyes: Estou sempre estudando sobre Cloud cloud e novas tecnologias.
 - :speech_balloon: Pergunte-me sobre  SOLID, DDD, Clean Code, DevOps, Sistemas Distribuídos, Micro-serviços e Cultura Nerd
-- :yum: Desenvolvo a mais de 6 anos em C# como linguagem principal e preferida !!
+- :yum: Desenvolvo a mais de 10 anos em C# como linguagem principal e preferida !!
 
 <h2>
 <p align=center>
