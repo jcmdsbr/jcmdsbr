@@ -20,36 +20,33 @@ namespace Profile;
                     name: "Jean Carlos Moreira da Silva",
                     birthDate: new DateTime(1995, 9, 1),
                     workStartDate: new DateTime(2014, 10, 1),
-                    currentEmployer: "5by5 Soluções em Sistemas",
+                    currentEmployer: "5by5 IT Solutions",
                     favoriteStack: ".Net Core/C#",
                     address: new("Araraquara", "São Paulo", "Brazil")
                 )
                 .WithLanguageSkills(
-                    new[] { "C#", "Typescript", "Javascript", "Python", "Powershell", "Shell" },
-                    new[] { ".Net Core", "Node", "Nest", "Angular", "Rebus", "Ionic" },
-                    new[] { "React", "Vue", "Express", "AutoMapper", "MediatoR" }
+                    new[] { "C#", "Node with JS/TS", "Python", "Powershell", "Shell", "GoLang", "JAVA" },
                 )
                 .WithDatabaseSkills(
-                    new[] { "SQL Server", "PostgreSQL", "MongoDB", "DynamoDB", "Redis", "Firestore" },
-                    new[] { "EF", "NHibernate", "Dapper", "TypeORM", "Mongoose" }
+                    new[] { "SQL Server", "PostgreSQL", "Oracle", "MongoDB", "DynamoDB", "Redis", "Firestore" },
                 )
                 .WithMessagingSkills(
-                    new[] { "RabbitMQ", "SNS", "SQS", "Google Pub/Sub", "Azure Service Bus", "Kafka", "SignalR", "Event Hub" }
+                    new[] { "RabbitMQ", "SNS", "SQS", "Google Pub/Sub", "Azure Service Bus", "Kafka", "SignalR", "Event Hub", "Cloud events" }
                 )
                 .WithDevOpsSkills(
-                    new[] { "Jenkins", "Azure Pipelines", "Cloud Build", "Spinnaker" }
+                    new[] { "Jenkins", "Azure Pipelines", "Cloud Build", "Spinnaker", "Github Actions" }
                 )
                 .WithBestPracticeSkills(
-                    new[] { "Clean Code", "SOLID", "TDD", "Clean Architecture", "DDD" }
+                    new[] { "Clean Code", "SOLID", "TDD", "Clean Architecture", "DDD", "Hexagonal Architecture", "Pipes&Filters" }
                 )
                 .WithCloudProviderSkills(
-                    new[] { "AWS", "GCP", "Azure" }
+                    new[] { "AWS", "GCP", "Azure", "OCI" }
                 )
                 .WithArchitectureDesignSkills(
-                    new[] { "Hexagonal", "MicroServices", "Event Sourcing", "CQRS" , "EDAs", "CDC"}
+                    new[] { "Microservices", "Event Sourcing", "CQRS", "EDAs", "CDC", "ACLs", "BFFs / Gateway Aggregation", "Federated Identity", "Cache-Aside" }
                 )
                 .WithResilienceDesignSkills(
-                    new[] { "Retry", "Circuit Breaker", "Fallback", "Timeout", "SAGA" }
+                    new[] { "Retry", "Circuit Breaker", "Fallback", "BulkHead", "Timeout", "SAGA" }
                 )
                 .WithKnowledgeInSSIS()
                 .WithKnowledgeInMultiLanguageApplication()
@@ -69,10 +66,11 @@ dotnet run Profile.csproj
 
 ---
 
-- :blush: Meu nome é Jean Carlos, atualmente atuo como Arquiteto de Software na empresa 5by5 Soluções em Sistemas
-- :stuck_out_tongue_closed_eyes: Estou sempre estudando sobre Cloud cloud e novas tecnologias.
-- :speech_balloon: Pergunte-me sobre  SOLID, DDD, Clean Code, DevOps, Sistemas Distribuídos, Micro-serviços e Cultura Nerd
-- :yum: Desenvolvo a mais de 10 anos em C# como linguagem principal e preferida !!
+- :blush:  Principal Solutions/Sofrware Architecture with over 10 years of experience, I help companies navigate their digital modernization journeys, leveraging technology as a strategic pillar for decision-making and sustainable growth.
+- :speech_balloon: Throughout my career, I have worked on challenging projects across various industries, including government, e-commerce, agriculture, aviation, education, and, most recently, healthcare. Each experience has fueled my passion for innovation and impactful solutions.
+-  :fire: A recent highlight of my career was my involvement in the second-largest merger between Brazilian companies in 2024, between Hapvida and NotreDame Intermédica, where I contributed to the strategic technological direction, accelerating digital transformation.
+-  :yum: My expertise in open-source technologies such as Kubernetes, Helm, Keda, and OpenTelemetry has been instrumental in enabling large organizations to scale and modernize their systems sustainably and efficiently.
+-  :hospital: Currently, I am contributing to the strategic and tactical design of solutions at Hapvida NDI, Brazil’s largest healthcare operator, driving innovation and enabling new scenarios to address the challenges of the future.
 
 <h2>
 <p align=center>
